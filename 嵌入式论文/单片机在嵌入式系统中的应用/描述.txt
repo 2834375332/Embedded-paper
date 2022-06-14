@@ -1,0 +1,10 @@
+单片机在嵌入式系统中的应用
+李涵鑫钟月棋
+四川大学锦城学院
+摘要：在现代社会通信技术、计算机技术、半导体技术日益发展的今天,嵌入式系统得到了更多广泛的应用,成为当今社会饱受关注的领域之一。其带来的后pc时代,将嵌入式系统的便捷性、实时性、智能性带入生活家电、网络监控,信息计算、工业技术等多个领域中。本文就此探讨单片机与嵌入式系统的有关应用。 
+关键词：	嵌入式;ARM;单片机;
+来源数据库：	精品科普;
+分类号：	TP368.1
+
+
+网址：https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2019&filename=SJSM201907263&uniplatform=NZKPT&v=njdzIXt2sKnrb_FSEOgwCm4YBxHu01-kDMIGXiCdx1pd4_W7572jPLg-3hk5W_hB
